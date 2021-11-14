@@ -1,0 +1,5 @@
+node_modules
+dist
+
+# Comente o .env abaixo quando for subir para o seu repositório
+.env
